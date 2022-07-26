@@ -1,4 +1,4 @@
- #!/usr/bin/python3
+#!/usr/bin/python3
 """
 A module with a Rectangle that does nothing
 """
@@ -14,8 +14,8 @@ class Rectangle:
 
     def __init__(self, width=0, height=0):
         """
-        Checks the parameters and initializes some values     
-  Args:
+        Checks the parameters and initializes some values
+        Args:
             width (:obj:`int`, optional): The width of the Rectangle.
             height (:obj:`int`, optional): The height of the Rectangle.
         """
